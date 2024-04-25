@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# This is a comment!
+# *.log # you can use wild card
